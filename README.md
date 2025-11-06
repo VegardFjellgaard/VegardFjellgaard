@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VegardFjellgaard
-- 👀 I’m interested in nothing
+- 👀 I’m interested in..
 
 <!---
 VegardFjellgaard/VegardFjellgaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
